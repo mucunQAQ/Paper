@@ -61,6 +61,11 @@ java {
 }
 ```
 
+```kotlin
+git clone https://github.com/PaperMC/Paperclip.git
+./gradlew build
+```
+
 How To (Compiling Jar From Source)
 ------
 To compile Paper, you need JDK 21 and an internet connection.
@@ -95,7 +100,3 @@ Special Thanks To:
 All our sponsors!  
 [![Sponsor Image](https://raw.githubusercontent.com/PaperMC/papermc.io/data/sponsors.png)](https://papermc.io/sponsors)
 
-```kotlin
-git clone https://github.com/PaperMC/Paperclip.git
-./gradle build
-```
